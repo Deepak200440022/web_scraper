@@ -1,4 +1,4 @@
-````markdown
+
 # Book Scraper with Scrapy and MongoDB
 
 This project is a web scraper built using the **Scrapy** framework to extract book data from [http://books.toscrape.com](http://books.toscrape.com), a website designed for practicing scraping techniques. The scraped data is stored directly in a **MongoDB** database.
@@ -26,7 +26,7 @@ Each book entry includes:
 - Scrapy
 - pymongo
 - MongoDB (running locally or accessible remotely)
-````
+
 
 ## Installation
 
@@ -34,7 +34,7 @@ Install the dependencies:
 
 ```bash
 pip install scrapy pymongo
-
+```
 
 Ensure MongoDB is installed and running:
 
