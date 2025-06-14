@@ -26,6 +26,7 @@ Each book entry includes:
 - Scrapy
 - pymongo
 - MongoDB (running locally or accessible remotely)
+````
 
 ## Installation
 
@@ -33,7 +34,7 @@ Install the dependencies:
 
 ```bash
 pip install scrapy pymongo
-````
+
 
 Ensure MongoDB is installed and running:
 
